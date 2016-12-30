@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/main_chart_temp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img_full_temp"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/ic_full_screen_red" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_chart_humi"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img_full_humi"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+
+            android:src="@drawable/ic_full_screen_blue" />
+
+    </LinearLayout>
+
+</LinearLayout>

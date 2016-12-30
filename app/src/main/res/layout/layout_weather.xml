@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        app:cardCornerRadius="4dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:padding="4dp"
+            android:weightSum="1">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgReload"
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/ic_reload" />
+
+                <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/ic_temperature" />
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+                <TextView
+                    android:id="@+id/txtTempC"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="KXĐ"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="32dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtTempF"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="KXĐ"
+                    android:textSize="32dp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:gravity="center"
+                        android:text="Ánh sáng: " />
+
+                    <TextView
+                        android:id="@+id/txtLightSensor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="bottom"
+                        android:gravity="center"
+                        android:text="Không xác định" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        app:cardCornerRadius="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="4dp">
+
+            <com.github.lzyzsd.circleprogress.DonutProgress
+                android:id="@+id/cpHumidity"
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                app:donut_finished_color="@color/colorPrimary"
+                app:donut_max="100"
+                app:donut_progress="50"
+                app:donut_text_color="@color/colorPrimary"
+                app:donut_text_size="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Độ ẩm" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+

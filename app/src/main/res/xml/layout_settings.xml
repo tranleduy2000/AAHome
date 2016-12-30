@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:checked="false"
+        android:key="key_developer"
+        android:summary="Bật theo dõi command, thêm tab command vào màn hình điều khiển"
+        android:title="Chế độ nhà phát triển" />
+</PreferenceScreen>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_room_drawer.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\menu\\activity_room_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\menu\\room.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\menu\\room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

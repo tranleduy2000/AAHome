@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lamp.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_lamp.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_light_bulb_1.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_light_bulb_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_boiler.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_boiler.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fire_blue.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_fire_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_android.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cmd_blue.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_cmd_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_full_screen_red.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_full_screen_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_door.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_door.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_analog.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_analog.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reload.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_security_red.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_security_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_security_blue.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_security_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_digital.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_digital.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_garage_close.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_garage_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_full_screen_blue.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_full_screen_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_television.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_television.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_washing_machine.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_washing_machine.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_garage.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_garage.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_window.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_window.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_connect_white.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_connect_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_microwave.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_microwave.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_light_bulb_2.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_light_bulb_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cleaner.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reload_white.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_reload_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chart_blue.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_chart_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_light_bulb.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_light_bulb.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cmd_white.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_cmd_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_air_conditioner.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_air_conditioner.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_device.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_open_door.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_open_door.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chart_white.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_chart_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_garage_open.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_garage_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_device_white.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_device_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fire_red.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_fire_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_door.png",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\src\\main\\res\\drawable\\ic_close_door.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    }
+]

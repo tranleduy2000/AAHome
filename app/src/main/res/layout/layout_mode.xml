@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                              xmlns:app="http://schemas.android.com/apk/res-auto"
+                                              android:id="@+id/srMode"
+                                              android:layout_width="match_parent"
+                                              android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.SwitchCompat
+                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/ckbSecurity"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:text="@string/system_security"/>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imgSecurity"
+                            android:layout_width="64dp"
+                            android:layout_height="64dp"
+                            android:layout_gravity="right"
+                            android:layout_margin="4dp"
+                            android:src="@drawable/ic_security_blue"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Chế độ bảo mật"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Description"/>
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.SwitchCompat
+                        android:id="@+id/ckbFire"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:text="@string/alarm_system"/>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imgFire"
+                            android:layout_width="64dp"
+                            android:layout_height="64dp"
+                            android:layout_gravity="right"
+                            android:layout_margin="4dp"
+                            android:src="@drawable/ic_fire_blue"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Chế độ báo cháy"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Description"/>
+
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.SwitchCompat
+                        android:id="@+id/ckbAutoDoor"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:text="@string/door_system"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imgAutoDoor"
+                            android:layout_width="64dp"
+                            android:layout_height="64dp"
+                            android:layout_gravity="right"
+                            android:layout_margin="4dp"
+                            android:src="@drawable/ic_close_door"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Hệ thống cửa thông minh"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="8dp"
+                                android:text="Description"/>
+
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="4dp">
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_column="0"
+                        android:layout_span="2"
+                        android:padding="8dp"
+                        android:text="Ánh sáng"
+                        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:orientation="vertical"
+                            android:padding="8dp">
+
+                            <android.support.v7.widget.SwitchCompat
+                                android:id="@+id/swAutoLight"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:checked="true"
+                                android:padding="8dp"
+                                android:text="Tự động"/>
+
+                            <RadioGroup
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <android.support.v7.widget.CardView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="4dp">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:layout_width="64dp"
+                                            android:layout_height="64dp"
+                                            android:layout_gravity="right"
+                                            android:src="@drawable/ic_digital"/>
+
+                                        <android.support.v7.widget.AppCompatRadioButton
+                                            android:id="@+id/radAutoDigital"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="center|left"
+                                            android:checked="false"
+                                            android:paddingLeft="8dp"
+                                            android:text="Ánh sáng tự động dạng Digital"/>
+
+
+                                    </LinearLayout>
+
+
+                                </android.support.v7.widget.CardView>
+
+                                <android.support.v7.widget.CardView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="4dp">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:layout_width="64dp"
+                                            android:layout_height="64dp"
+                                            android:layout_gravity="right"
+                                            android:src="@drawable/ic_analog"/>
+
+                                        <android.support.v7.widget.AppCompatRadioButton
+                                            android:id="@+id/radAutoAnalog"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="left|center"
+                                            android:checked="true"
+                                            android:paddingLeft="8dp"
+                                            android:text="Ánh sáng tự động dạng Analog"/>
+
+
+                                    </LinearLayout>
+                                </android.support.v7.widget.CardView>
+                            </RadioGroup>
+
+                            <android.support.v7.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="4dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content">
+
+                                    <ImageView
+                                        android:layout_width="64dp"
+                                        android:layout_height="64dp"
+                                        android:layout_gravity="right"
+                                        android:src="@drawable/ic_user"/>
+
+                                    <android.support.v7.widget.AppCompatCheckBox
+                                        android:id="@+id/ckbAutoPIR"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center|left"
+                                        android:checked="false"
+                                        android:paddingLeft="8dp"
+                                        android:text="Ánh sáng tự động dựa vào cảm biến PIR"/>
+                                </LinearLayout>
+                            </android.support.v7.widget.CardView>
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:orientation="vertical"
+                            android:padding="8dp">
+
+                            <android.support.v7.widget.SwitchCompat
+                                android:id="@+id/swFromUser"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_column="1"
+                                android:layout_gravity="center"
+                                android:checked="false"
+                                android:padding="8dp"
+                                android:text="Thủ công"/>
+
+                            <android.support.v7.widget.CardView
+                                android:id="@+id/cardOnOff"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="4dp">
+
+                                <LinearLayout
+
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content">
+
+                                    <ImageView
+                                        android:layout_width="64dp"
+                                        android:layout_height="64dp"
+                                        android:layout_gravity="right"
+                                        android:src="@drawable/ic_digital"/>
+
+                                    <android.support.v7.widget.AppCompatTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center|left"
+                                        android:paddingLeft="8dp"
+                                        android:text="Bật/tắt đèn"/>
+
+
+                                </LinearLayout>
+
+
+                            </android.support.v7.widget.CardView>
+
+                            <android.support.v7.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="4dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content">
+
+                                    <ImageView
+                                        android:layout_width="64dp"
+                                        android:layout_height="64dp"
+                                        android:layout_gravity="right"
+                                        android:src="@drawable/ic_analog"/>
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center"
+                                        android:orientation="vertical">
+
+                                        <android.support.v7.widget.AppCompatTextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_gravity="center|left"
+                                            android:paddingLeft="8dp"
+                                            android:text="Chỉnh độ sáng đèn"/>
+
+                                        <android.support.v7.widget.AppCompatSeekBar
+                                            android:id="@+id/seekLight"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:indeterminate="false"
+                                            android:max="255"
+                                            android:progress="200"/>
+
+                                        <TextView
+                                            android:id="@+id/txtValueAnalog"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="200/255"/>
+                                    </LinearLayout>
+
+                                </LinearLayout>
+                            </android.support.v7.widget.CardView>
+                        </LinearLayout>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</android.support.v4.widget.SwipeRefreshLayout>

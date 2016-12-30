@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\res\\merged\\debug\\values-is\\values-is.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 257,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Duy\\OneDrive\\AndroidStudioProjects\\AAHome\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.2.1\\res\\values-is\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 257,
+                        "endOffset": 583
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AAHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="t_n_ng_nh_p">Tên đăng nhập</string>
+    <string name="m_t_kh_u">Mật khẩu</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="auto_login">Tự động đang nhập lần sau</string>
+    <string name="ng_nh_p_cap">ĐĂNG NHẬP</string>
+    <string name="quick_connect">Kết nối nhanh</string>
+    <string name="a_ch_ip">Địa chỉ IP</string>
+    <string name="c_ng">Cổng</string>
+    <string name="connecting">Đang kết nối ...</string>
+    <string name="off">OFF</string>
+    <string name="add_device">Add Device</string>
+    <string name="add_mode">Add Mode</string>
+    <string name="title_activity_weather_maps">Map</string>
+    <string name="device_id">Chân Arduino</string>
+    <string name="device_name">Tên</string>
+    <string name="device_description">Mô tả</string>
+    <string name="device_commnad">Command</string>
+    <string name="add">Thêm thiết bị</string>
+    <string name="on">ON</string>
+    <string name="title_activity_room">RoomActivity</string>
+    <string name="key_dev">key_developer</string>
+    <string name="description_connect">Địa chỉ IP (IP Address): \r\nVào ứng dụng cài đặt (Setting) -> Wifi -> Nhấn vào Wifi của Arduino \r\nĐịa chỉ IP của Arduino có dạng: 192.168.4.x \r\nCổng (Port): 80</string>
+    <string name="description_ip">Địa chỉ IP (IP Address): \r\n Vào ứng dụng cài đặt (Setting) -> Wifi -> Nhấn vào Wifi của Arduino \r\nĐịa chỉ IP của Arduino có dạng: 192.168.4.x</string>
+    <string name="description_port">Cổng (Port): 80</string>
+    <string name="system_security">Hệ thống bảo mật</string>
+    <string name="alarm_system">Hệ thống báo cháy</string>
+    <string name="door_system">Hệ thống cửa thông minh</string>
+
+
+    <string-array name="spin_device">
+        <item>Chi tiết</item>
+        <item>Chỉnh sửa</item>
+        <item>Xóa</item>
+    </string-array>
+</resources>

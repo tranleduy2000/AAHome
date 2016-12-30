@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.tranleduy.aahome.DoorControlActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:background="@color/colorPrimary"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="128dp"
+            android:layout_height="128dp"
+            android:src="@drawable/ic_door" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.2"
+        android:orientation="vertical"
+        android:weightSum="4">
+
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:id="@+id/swAuto"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorWhite"
+            android:padding="8dp"
+            android:text="Tự động" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btnCloseDoor"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:text="Đóng" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btnOpenDoor"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+
+                android:text="Mở" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
